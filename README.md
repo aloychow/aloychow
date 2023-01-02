@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out [Payranked](https://www.payranked.com/), a website that promotes jobs transparency and empowers job seekers to find their dream job!
+I'm Aloysius, a software engineer and data enthusiast! You can reach out to me at aloychow@outlook.com.
 
 <!--
 **aloychow/aloychow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
